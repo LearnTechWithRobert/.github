@@ -7,7 +7,7 @@ Learn programming, AI, and tech fundamentals through **interactive lessons and p
 - AI and tech learning lessons
 - Mini-projects to apply your knowledge
 
-🚀 Start learning here → [Learn Python with Notebooks](https://github.com/LearnTechWithRobert/Intro-To-Python)
+🚀 Start learning here → [Learn Python with Notebooks](https://github.com/LearnTechWithRobert/learn-python-with-notebooks)
 
 ---
 
